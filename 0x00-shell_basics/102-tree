@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Welocome' > welcome/to/school
+echo 'Welocome'>welcome/to/school
